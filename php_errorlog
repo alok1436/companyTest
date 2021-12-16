@@ -1,0 +1,30 @@
+[17-Jun-2020 12:14:13 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/customer/www/dev.klothus.com/public_html/klothus/bootstrap/app.php:14
+Stack trace:
+#0 /home/customer/www/dev.klothus.com/public_html/klothus/artisan(20): require_once()
+#1 {main}
+  thrown in /home/customer/www/dev.klothus.com/public_html/klothus/bootstrap/app.php on line 14
+[17-Jun-2020 12:15:39 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/customer/www/dev.klothus.com/public_html/klothus/bootstrap/app.php:14
+Stack trace:
+#0 /home/customer/www/dev.klothus.com/public_html/klothus/artisan(20): require_once()
+#1 {main}
+  thrown in /home/customer/www/dev.klothus.com/public_html/klothus/bootstrap/app.php on line 14
+[17-Jun-2020 12:46:51 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/customer/www/dev.klothus.com/public_html/klothus/bootstrap/app.php:14
+Stack trace:
+#0 /home/customer/www/dev.klothus.com/public_html/klothus/artisan(20): require_once()
+#1 {main}
+  thrown in /home/customer/www/dev.klothus.com/public_html/klothus/bootstrap/app.php on line 14
+[18-Jun-2020 06:13:45 CST6CDT] PHP Warning:  Uncaught ErrorException: require(/home/customer/www/dev.klothus.com/public_html/klothus/vendor/composer/../../app/Helpers/Helper.php): failed to open stream: No such file or directory in /home/customer/www/dev.klothus.com/public_html/klothus/vendor/composer/autoload_real.php:66
+Stack trace:
+#0 /home/customer/www/dev.klothus.com/public_html/klothus/vendor/composer/autoload_real.php(66): Composer\Util\ErrorHandler::handle(2, 'require(/home/c...', '/home/customer/...', 66, Array)
+#1 /home/customer/www/dev.klothus.com/public_html/klothus/vendor/composer/autoload_real.php(66): require()
+#2 /home/customer/www/dev.klothus.com/public_html/klothus/vendor/composer/autoload_real.php(56): composerRequire07efc7f68b536ce617251e536600406b('8fde5feda9697fe...', '/home/customer/...')
+#3 /home/customer/www/dev.klothus.com/public_html/klothus/vendor/autoload.php(7): ComposerAutoloaderInit07efc7f68b536ce617251e536600406b::getLoader()
+#4 /home/customer/www/dev.klothus.com/public_html/klothus/vendor/laravel/framework/src/Illuminat in /home/customer/www/dev.klothus.com/public_html/klothus/vendor/composer/autoload_real.php on line 66
+[18-Jun-2020 06:13:45 CST6CDT] PHP Fatal error:  composerRequire07efc7f68b536ce617251e536600406b(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/klothus/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/klothus/vendor/composer/autoload_real.php on line 66
+[18-Jul-2020 07:02:38 UTC] PHP Warning:  Uncaught ErrorException: require_once(/home/customer/www/dev.klothus.com/public_html/./database/migrations/2020_07_18_132105_create_category_user_table.php): failed to open stream: No such file or directory in /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:111
+Stack trace:
+#0 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(111): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require_once(/h...', '/home/customer/...', 111, Array)
+#1 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(111): require_once()
+#2 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php(482): Illuminate\Filesystem\Filesystem->requireOnce('/home/customer/...')
+#3 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Database/Migratio in /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 111
+[18-Jul-2020 07:02:38 UTC] PHP Fatal error:  Illuminate\Filesystem\Filesystem::requireOnce(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/./database/migrations/2020_07_18_132105_create_category_user_table.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 111
