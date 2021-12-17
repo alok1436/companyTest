@@ -111,9 +111,9 @@ class UserController extends Controller
             ]; 
 
             $rule = [
-                'input' => ($fieldType == 'Email') ? 'required|email' : 'required',
-                'password'=> 'required',
-                'recaptcha'=>$request->debug == '' ? 'required' : ''
+                'input'     => ($fieldType == 'Email') ? 'required|email' : 'required',
+                'password'  => 'required',
+                'recaptcha' => $request->debug == '' ? 'required' : ''
             ];
 
             $validator = Validator::make($request->all(), $rule ,$messages);

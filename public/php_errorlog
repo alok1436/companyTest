@@ -1,0 +1,188 @@
+[10-Jun-2020 08:16:07 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/klothus/public/../vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/klothus/public/index.php on line 24
+[12-Jun-2020 18:15:36 UTC] PHP Fatal error:  Trait 'Kodeine\Metable\Metable' not found in /home/customer/www/dev.klothus.com/public_html/klothus/app/Product.php on line 9
+[12-Jun-2020 13:17:04 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/klothus/public/../vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/klothus/public/index.php on line 24
+[12-Jun-2020 13:17:06 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/klothus/public/../vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/klothus/public/index.php on line 24
+[12-Jun-2020 13:17:07 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/klothus/public/../vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/klothus/public/index.php on line 24
+[12-Jun-2020 13:17:11 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/klothus/public/../vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/klothus/public/index.php on line 24
+[17-Jun-2020 16:49:42 UTC] PHP Fatal error:  Trait 'Spatie\Permission\Traits\HasRoles' not found in /home/customer/www/dev.klothus.com/public_html/klothus/app/User.php on line 12
+[17-Jun-2020 16:50:22 UTC] PHP Fatal error:  Trait 'Spatie\Permission\Traits\HasRoles' not found in /home/customer/www/dev.klothus.com/public_html/klothus/app/User.php on line 12
+[17-Jun-2020 16:50:30 UTC] PHP Fatal error:  Trait 'Spatie\Permission\Traits\HasRoles' not found in /home/customer/www/dev.klothus.com/public_html/klothus/app/User.php on line 12
+[17-Jun-2020 16:51:09 UTC] PHP Fatal error:  Trait 'Spatie\Permission\Traits\HasRoles' not found in /home/customer/www/dev.klothus.com/public_html/klothus/app/User.php on line 12
+[17-Jun-2020 16:53:19 UTC] PHP Fatal error:  Trait 'Spatie\Permission\Traits\HasRoles' not found in /home/customer/www/dev.klothus.com/public_html/klothus/app/User.php on line 12
+[17-Jun-2020 16:54:52 UTC] PHP Fatal error:  Trait 'Spatie\Permission\Traits\HasRoles' not found in /home/customer/www/dev.klothus.com/public_html/klothus/app/User.php on line 12
+[17-Jun-2020 16:56:21 UTC] PHP Fatal error:  Trait 'Spatie\Permission\Traits\HasRoles' not found in /home/customer/www/dev.klothus.com/public_html/klothus/app/User.php on line 12
+[17-Jun-2020 16:57:01 UTC] PHP Fatal error:  Trait 'Spatie\Permission\Traits\HasRoles' not found in /home/customer/www/dev.klothus.com/public_html/klothus/app/User.php on line 12
+[17-Jun-2020 12:14:36 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/customer/www/dev.klothus.com/public_html/klothus/bootstrap/app.php:14
+Stack trace:
+#0 /home/customer/www/dev.klothus.com/public_html/klothus/public/index.php(38): require_once()
+#1 {main}
+  thrown in /home/customer/www/dev.klothus.com/public_html/klothus/bootstrap/app.php on line 14
+[17-Jun-2020 12:14:36 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/customer/www/dev.klothus.com/public_html/klothus/bootstrap/app.php:14
+Stack trace:
+#0 /home/customer/www/dev.klothus.com/public_html/klothus/public/index.php(38): require_once()
+#1 {main}
+  thrown in /home/customer/www/dev.klothus.com/public_html/klothus/bootstrap/app.php on line 14
+[17-Jun-2020 17:31:29 UTC] PHP Fatal error:  Trait 'Spatie\Permission\Traits\HasRoles' not found in /home/customer/www/dev.klothus.com/public_html/klothus/app/User.php on line 12
+[17-Jun-2020 12:46:40 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/klothus/public/../vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/klothus/public/index.php on line 24
+[17-Jun-2020 12:46:41 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/klothus/public/../vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/klothus/public/index.php on line 24
+[17-Jun-2020 12:47:16 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/customer/www/dev.klothus.com/public_html/klothus/bootstrap/app.php:14
+Stack trace:
+#0 /home/customer/www/dev.klothus.com/public_html/klothus/public/index.php(38): require_once()
+#1 {main}
+  thrown in /home/customer/www/dev.klothus.com/public_html/klothus/bootstrap/app.php on line 14
+[17-Jun-2020 12:47:20 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/customer/www/dev.klothus.com/public_html/klothus/bootstrap/app.php:14
+Stack trace:
+#0 /home/customer/www/dev.klothus.com/public_html/klothus/public/index.php(38): require_once()
+#1 {main}
+  thrown in /home/customer/www/dev.klothus.com/public_html/klothus/bootstrap/app.php on line 14
+[17-Jun-2020 12:48:23 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/customer/www/dev.klothus.com/public_html/klothus/bootstrap/app.php:14
+Stack trace:
+#0 /home/customer/www/dev.klothus.com/public_html/klothus/public/index.php(38): require_once()
+#1 {main}
+  thrown in /home/customer/www/dev.klothus.com/public_html/klothus/bootstrap/app.php on line 14
+[17-Jun-2020 12:48:30 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/customer/www/dev.klothus.com/public_html/klothus/bootstrap/app.php:14
+Stack trace:
+#0 /home/customer/www/dev.klothus.com/public_html/klothus/public/index.php(38): require_once()
+#1 {main}
+  thrown in /home/customer/www/dev.klothus.com/public_html/klothus/bootstrap/app.php on line 14
+[17-Jun-2020 12:48:32 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/customer/www/dev.klothus.com/public_html/klothus/bootstrap/app.php:14
+Stack trace:
+#0 /home/customer/www/dev.klothus.com/public_html/klothus/public/index.php(38): require_once()
+#1 {main}
+  thrown in /home/customer/www/dev.klothus.com/public_html/klothus/bootstrap/app.php on line 14
+[17-Jun-2020 12:48:33 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/customer/www/dev.klothus.com/public_html/klothus/bootstrap/app.php:14
+Stack trace:
+#0 /home/customer/www/dev.klothus.com/public_html/klothus/public/index.php(38): require_once()
+#1 {main}
+  thrown in /home/customer/www/dev.klothus.com/public_html/klothus/bootstrap/app.php on line 14
+[17-Jun-2020 12:48:35 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/customer/www/dev.klothus.com/public_html/klothus/bootstrap/app.php:14
+Stack trace:
+#0 /home/customer/www/dev.klothus.com/public_html/klothus/public/index.php(38): require_once()
+#1 {main}
+  thrown in /home/customer/www/dev.klothus.com/public_html/klothus/bootstrap/app.php on line 14
+[18-Jun-2020 06:13:12 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/klothus/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/klothus/vendor/composer/autoload_real.php on line 66
+[18-Jun-2020 06:13:13 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/klothus/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/klothus/vendor/composer/autoload_real.php on line 66
+[18-Jun-2020 06:14:16 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/klothus/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/klothus/vendor/composer/autoload_real.php on line 66
+[18-Jun-2020 06:14:40 CST6CDT] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/customer/www/dev.klothus.com/public_html/klothus/vendor/laravel/framework/src/Illuminate/Container/Container.php:805
+Stack trace:
+#0 /home/customer/www/dev.klothus.com/public_html/klothus/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/customer/www/dev.klothus.com/public_html/klothus/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/customer/www/dev.klothus.com/public_html/klothus/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/customer/www/dev.klothus.com/public_html/klothus/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home/customer/www/dev.klothus.com/pub in /home/customer/www/dev.klothus.com/public_html/klothus/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 807
+[25-Jun-2020 13:19:38 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/public/../vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/public/index.php on line 24
+[25-Jun-2020 13:20:17 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/public/../vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/public/index.php on line 24
+[25-Jun-2020 13:21:11 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/public/../vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/public/index.php on line 24
+[25-Jun-2020 13:21:13 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/public/../vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/public/index.php on line 24
+[25-Jun-2020 13:21:14 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/public/../vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/public/index.php on line 24
+[25-Jun-2020 13:21:17 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/public/../vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/public/index.php on line 24
+[25-Jun-2020 13:21:18 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/public/../vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/public/index.php on line 24
+[25-Jun-2020 13:21:22 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/public/../vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/public/index.php on line 24
+[25-Jun-2020 13:21:23 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/public/../vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/public/index.php on line 24
+[25-Jun-2020 13:22:29 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/public/../vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/public/index.php on line 24
+[25-Jun-2020 13:22:31 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/public/../vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/public/index.php on line 24
+[25-Jun-2020 13:30:20 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[25-Jun-2020 13:30:23 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[14-Jul-2020 11:54:04 UTC] PHP Fatal error:  Uncaught TypeError: Argument 4 passed to Facade\Ignition\ErrorPage\ErrorPageHandler::__construct() must be an instance of Facade\IgnitionContracts\SolutionProviderRepository, instance of Facade\Ignition\SolutionProviders\SolutionProviderRepository given in /home/customer/www/dev.klothus.com/public_html/vendor/facade/ignition/src/ErrorPage/ErrorPageHandler.php:25
+Stack trace:
+#0 [internal function]: Facade\Ignition\ErrorPage\ErrorPageHandler->__construct(Object(Illuminate\Foundation\Application), Object(Facade\Ignition\IgnitionConfig), Object(Facade\Ignition\ErrorPage\Renderer), Object(Facade\Ignition\SolutionProviders\SolutionProviderRepository))
+#1 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(845): ReflectionClass->newInstanceArgs(Array)
+#2 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(687): Illuminate\Container\Container->build('Facade\\Ignition...')
+#3 /home/customer/www/dev.kl in /home/customer/www/dev.klothus.com/public_html/vendor/facade/ignition/src/ErrorPage/ErrorPageHandler.php on line 25
+[15-Jul-2020 03:05:48 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:05:48 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:05:48 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:05:48 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:05:48 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:05:48 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:05:59 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:05:59 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:05:59 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:05:59 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:05:59 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:05:59 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:06:08 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:06:08 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:06:08 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:06:08 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:06:08 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:06:08 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:07:26 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:08:07 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:08:13 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:08:15 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:08:17 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:08:19 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:08:22 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:08:36 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:08:54 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:09:09 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:10:24 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:10:26 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:11:39 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:11:47 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:11:59 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:12:02 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:16:02 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:18:29 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:18:31 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:19:50 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[15-Jul-2020 03:20:25 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/dev.klothus.com/public_html/vendor/composer/../../app/Helpers/Helper.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/dev.klothus.com/public_html/vendor/composer/autoload_real.php on line 66
+[04-Aug-2020 09:44:19 UTC] PHP Fatal error:  Trait 'App\HasApiTokens' not found in /home/customer/www/dev.klothus.com/public_html/app/User.php on line 22
+[04-Aug-2020 09:45:48 UTC] PHP Fatal error:  Trait 'App\HasApiTokens' not found in /home/customer/www/dev.klothus.com/public_html/app/User.php on line 22
+[10-Aug-2020 14:13:06 CST6CDT] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(269): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Il in /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[17-Aug-2020 02:03:29 CST6CDT] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(269): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Il in /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[17-Aug-2020 02:04:31 CST6CDT] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(269): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Il in /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[17-Aug-2020 02:04:33 CST6CDT] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(269): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Il in /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[17-Aug-2020 02:06:01 CST6CDT] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(269): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Il in /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[17-Aug-2020 02:06:04 CST6CDT] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(269): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Il in /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[17-Aug-2020 02:06:07 CST6CDT] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(269): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Il in /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[17-Aug-2020 02:06:55 CST6CDT] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(269): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Il in /home/customer/www/dev.klothus.com/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
